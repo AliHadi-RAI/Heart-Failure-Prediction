@@ -3,7 +3,7 @@
 
 This project focuses on predicting heart failure risk using machine learning techniques. Cardiovascular diseases (CVDs) are the leading cause of death globally, claiming approximately 17.9 million lives annually. Early detection and management are key to reducing this toll, and our machine learning model aims to assist healthcare professionals by identifying individuals at risk of heart failure.
 
-The dataset includes various health-related attributes such as age, cholesterol levels, and chest pain type. Using this data, the project implements a binary classification model to predict heart failure risk.
+The dataset includes various health-related attributes such as age, cholesterol levels, and chest pain type. The project uses this data to implement a binary classification model to predict heart failure risk.
 
 📂 Project Structure
 
@@ -47,33 +47,6 @@ ST_Slope	The slope of the peak exercise ST segment [Up, Flat, Down]
 
 HeartDisease	Output class [1: heart disease, 0: no heart disease]
 
-🚀 Getting Started
-
-Prerequisites
-Python (≥3.8)
-Libraries:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/AliHadi-RAI/Heart-Failure-Prediction.git  
-Navigate to the project directory:
-bash
-Copy code
-cd heart-failure-prediction  
-Install required packages:
-bash
-Copy code
-pip install -r requirements.txt  
-Usage
-Run the notebook:
-Open the Heart_Failure_Prediction.ipynb file in Jupyter Notebook or Google Colab.
-Follow the steps outlined in the notebook to understand data processing, model training, and evaluation.
 
 📈 Results
 
@@ -102,7 +75,8 @@ Open a pull request.
 🙌 Acknowledgments
 
 Dataset courtesy of UCI Machine Learning Repository.
-Inspired by various Kaggle discussions and notebooks.
+
+Inspired by various Kaggle discussions and notebooks, especially Tanmay Deshpande.
 
 📧 Contact
 
