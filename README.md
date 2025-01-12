@@ -24,16 +24,27 @@ Performance evaluation using metrics like accuracy, precision, recall, and F1-sc
 
 Attribute	Description
 Age	Age of the patient [years]
+
 Sex	Sex of the patient [M: Male, F: Female]
+
 ChestPainType	Type of chest pain [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
+
 RestingBP	Resting blood pressure [mm Hg]
+
 Cholesterol	Serum cholesterol [mg/dl]
+
 FastingBS	Fasting blood sugar [1: >120 mg/dl, 0: ≤120 mg/dl]
+
 RestingECG	Resting electrocardiogram results [Normal, ST, LVH]
+
 MaxHR	Maximum heart rate achieved
+
 ExerciseAngina	Exercise-induced angina [Y: Yes, N: No]
+
 Oldpeak	ST depression induced by exercise relative to rest
+
 ST_Slope	The slope of the peak exercise ST segment [Up, Flat, Down]
+
 HeartDisease	Output class [1: heart disease, 0: no heart disease]
 
 🚀 Getting Started
